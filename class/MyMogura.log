@@ -1,0 +1,472 @@
+7Œ 10, 2022 8:51:05 ŒßŒã MyMogura main
+•’Ê: MyMogura::main() call
+7Œ 10, 2022 8:51:05 ŒßŒã MyMogura$mogura <init>
+•’Ê: MyMogura::mogura::mogura() call
+7Œ 10, 2022 8:51:05 ŒßŒã MyMogura$mogura <init>
+•’Ê: MyMogura::mogura::mogura() call
+7Œ 10, 2022 8:51:05 ŒßŒã MyMogura <init>
+•’Ê: MyMogura::MyMogura() call
+7Œ 10, 2022 8:51:05 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:05 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:07 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:11 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:12 ŒßŒã MyMogura actionPerformed
+•’Ê: MyMogura::actionPerformed() call
+7Œ 10, 2022 8:51:12 ŒßŒã MyMogura actionPerformed
+•’Ê: ----------------------GameStart--------------------------------------
+7Œ 10, 2022 8:51:12 ŒßŒã MyMogura$mogura init
+•’Ê: MyMogura::mogura::init() call
+7Œ 10, 2022 8:51:12 ŒßŒã MyMogura$mogura setTask
+•’Ê: MyMogura::mogura::setTask() call
+7Œ 10, 2022 8:51:12 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:12 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:51:12 ŒßŒã MyMogura$mogura$1 mouseClicked
+•’Ê: MyMogura::myListener::mouseClicked() call
+7Œ 10, 2022 8:51:12 ŒßŒã MyMogura incScore
+•’Ê: MyMogura::incScore() call
+7Œ 10, 2022 8:51:12 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:13 ŒßŒã MyMogura$mogura$Task run
+•’Ê: MyMogura::Task::run() call
+7Œ 10, 2022 8:51:13 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:13 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:51:13 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:13 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:51:14 ŒßŒã MyMogura$mogura$1 mouseClicked
+•’Ê: MyMogura::myListener::mouseClicked() call
+7Œ 10, 2022 8:51:14 ŒßŒã MyMogura incScore
+•’Ê: MyMogura::incScore() call
+7Œ 10, 2022 8:51:14 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:14 ŒßŒã MyMogura$mogura$Task run
+•’Ê: MyMogura::Task::run() call
+7Œ 10, 2022 8:51:14 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:14 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:51:14 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:14 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:51:15 ŒßŒã MyMogura$mogura$Task run
+•’Ê: MyMogura::Task::run() call
+7Œ 10, 2022 8:51:15 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:15 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:16 ŒßŒã MyMogura$mogura$Task run
+•’Ê: MyMogura::Task::run() call
+7Œ 10, 2022 8:51:16 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:16 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:51:16 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:16 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:51:17 ŒßŒã MyMogura$mogura$Task run
+•’Ê: MyMogura::Task::run() call
+7Œ 10, 2022 8:51:17 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:17 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:18 ŒßŒã MyMogura$mogura$Task run
+•’Ê: MyMogura::Task::run() call
+7Œ 10, 2022 8:51:18 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:18 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:51:18 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:18 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:51:19 ŒßŒã MyMogura$mogura$Task run
+•’Ê: MyMogura::Task::run() call
+7Œ 10, 2022 8:51:19 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:19 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:20 ŒßŒã MyMogura$mogura$Task run
+•’Ê: MyMogura::Task::run() call
+7Œ 10, 2022 8:51:20 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:20 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:51:20 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:20 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:51:21 ŒßŒã MyMogura$mogura$Task run
+•’Ê: MyMogura::Task::run() call
+7Œ 10, 2022 8:51:21 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:21 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:22 ŒßŒã MyMogura$mogura$Task run
+•’Ê: MyMogura::Task::run() call
+7Œ 10, 2022 8:51:22 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:22 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:51:22 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:22 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:51:23 ŒßŒã MyMogura$mogura$Task run
+•’Ê: MyMogura::Task::run() call
+7Œ 10, 2022 8:51:23 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:23 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:24 ŒßŒã MyMogura$mogura$Task run
+•’Ê: MyMogura::Task::run() call
+7Œ 10, 2022 8:51:24 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:24 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:51:24 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:24 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:51:25 ŒßŒã MyMogura$mogura$Task run
+•’Ê: MyMogura::Task::run() call
+7Œ 10, 2022 8:51:25 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:25 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:26 ŒßŒã MyMogura$mogura$Task run
+•’Ê: MyMogura::Task::run() call
+7Œ 10, 2022 8:51:26 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:26 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:51:26 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:26 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:51:27 ŒßŒã MyMogura$mogura$Task run
+•’Ê: MyMogura::Task::run() call
+7Œ 10, 2022 8:51:27 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:27 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:28 ŒßŒã MyMogura$mogura$Task run
+•’Ê: MyMogura::Task::run() call
+7Œ 10, 2022 8:51:28 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:28 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:51:28 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:28 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:51:29 ŒßŒã MyMogura$mogura$Task run
+•’Ê: MyMogura::Task::run() call
+7Œ 10, 2022 8:51:29 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:29 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:30 ŒßŒã MyMogura$mogura$Task run
+•’Ê: MyMogura::Task::run() call
+7Œ 10, 2022 8:51:30 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:30 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:51:30 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:30 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:51:31 ŒßŒã MyMogura$mogura$Task run
+•’Ê: MyMogura::Task::run() call
+7Œ 10, 2022 8:51:31 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:31 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:32 ŒßŒã MyMogura$mogura$Task run
+•’Ê: MyMogura::Task::run() call
+7Œ 10, 2022 8:51:32 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:32 ŒßŒã MyMogura exportCsv
+•’Ê: MyMogura::exportCsv() call
+7Œ 10, 2022 8:51:32 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:32 ŒßŒã MyMogura sendData
+•’Ê: MyMogura::sendData() call
+7Œ 10, 2022 8:51:32 ŒßŒã MyMogura$mogura$Task run
+•’Ê: ----------------------GameFinish--------------------------------------
+7Œ 10, 2022 8:51:56 ŒßŒã MyMogura actionPerformed
+•’Ê: MyMogura::actionPerformed() call
+7Œ 10, 2022 8:51:56 ŒßŒã MyMogura actionPerformed
+•’Ê: ----------------------GameStart--------------------------------------
+7Œ 10, 2022 8:51:56 ŒßŒã MyMogura$mogura init
+•’Ê: MyMogura::mogura::init() call
+7Œ 10, 2022 8:51:56 ŒßŒã MyMogura$mogura setTask
+•’Ê: MyMogura::mogura::setTask() call
+7Œ 10, 2022 8:51:56 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:57 ŒßŒã MyMogura$mogura$Task run
+•’Ê: MyMogura::Task::run() call
+7Œ 10, 2022 8:51:57 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:57 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:51:57 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:57 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:51:57 ŒßŒã MyMogura$mogura$1 mouseClicked
+•’Ê: MyMogura::myListener::mouseClicked() call
+7Œ 10, 2022 8:51:57 ŒßŒã MyMogura incScore
+•’Ê: MyMogura::incScore() call
+7Œ 10, 2022 8:51:57 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:58 ŒßŒã MyMogura$mogura$Task run
+•’Ê: MyMogura::Task::run() call
+7Œ 10, 2022 8:51:58 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:58 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:51:58 ŒßŒã MyMogura$mogura$1 mouseClicked
+•’Ê: MyMogura::myListener::mouseClicked() call
+7Œ 10, 2022 8:51:58 ŒßŒã MyMogura incScore
+•’Ê: MyMogura::incScore() call
+7Œ 10, 2022 8:51:58 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:59 ŒßŒã MyMogura$mogura$Task run
+•’Ê: MyMogura::Task::run() call
+7Œ 10, 2022 8:51:59 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:59 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:51:59 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:51:59 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:51:59 ŒßŒã MyMogura$mogura$1 mouseClicked
+•’Ê: MyMogura::myListener::mouseClicked() call
+7Œ 10, 2022 8:51:59 ŒßŒã MyMogura incScore
+•’Ê: MyMogura::incScore() call
+7Œ 10, 2022 8:51:59 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:00 ŒßŒã MyMogura$mogura$Task run
+•’Ê: MyMogura::Task::run() call
+7Œ 10, 2022 8:52:00 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:00 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:52:00 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:00 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:52:00 ŒßŒã MyMogura$mogura$1 mouseClicked
+•’Ê: MyMogura::myListener::mouseClicked() call
+7Œ 10, 2022 8:52:00 ŒßŒã MyMogura incScore
+•’Ê: MyMogura::incScore() call
+7Œ 10, 2022 8:52:00 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:01 ŒßŒã MyMogura$mogura$Task run
+•’Ê: MyMogura::Task::run() call
+7Œ 10, 2022 8:52:01 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:01 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:52:01 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:01 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:52:01 ŒßŒã MyMogura$mogura$1 mouseClicked
+•’Ê: MyMogura::myListener::mouseClicked() call
+7Œ 10, 2022 8:52:01 ŒßŒã MyMogura incScore
+•’Ê: MyMogura::incScore() call
+7Œ 10, 2022 8:52:01 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:02 ŒßŒã MyMogura$mogura$Task run
+•’Ê: MyMogura::Task::run() call
+7Œ 10, 2022 8:52:02 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:02 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:52:02 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:02 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:52:02 ŒßŒã MyMogura$mogura$1 mouseClicked
+•’Ê: MyMogura::myListener::mouseClicked() call
+7Œ 10, 2022 8:52:02 ŒßŒã MyMogura incScore
+•’Ê: MyMogura::incScore() call
+7Œ 10, 2022 8:52:02 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:03 ŒßŒã MyMogura$mogura$Task run
+•’Ê: MyMogura::Task::run() call
+7Œ 10, 2022 8:52:03 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:03 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:52:03 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:03 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:52:03 ŒßŒã MyMogura$mogura$1 mouseClicked
+•’Ê: MyMogura::myListener::mouseClicked() call
+7Œ 10, 2022 8:52:03 ŒßŒã MyMogura incScore
+•’Ê: MyMogura::incScore() call
+7Œ 10, 2022 8:52:03 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:04 ŒßŒã MyMogura$mogura$Task run
+•’Ê: MyMogura::Task::run() call
+7Œ 10, 2022 8:52:04 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:04 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:52:04 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:04 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:52:04 ŒßŒã MyMogura$mogura$1 mouseClicked
+•’Ê: MyMogura::myListener::mouseClicked() call
+7Œ 10, 2022 8:52:04 ŒßŒã MyMogura incScore
+•’Ê: MyMogura::incScore() call
+7Œ 10, 2022 8:52:04 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:05 ŒßŒã MyMogura$mogura$Task run
+•’Ê: MyMogura::Task::run() call
+7Œ 10, 2022 8:52:05 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:05 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:52:05 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:05 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:52:05 ŒßŒã MyMogura$mogura$1 mouseClicked
+•’Ê: MyMogura::myListener::mouseClicked() call
+7Œ 10, 2022 8:52:05 ŒßŒã MyMogura incScore
+•’Ê: MyMogura::incScore() call
+7Œ 10, 2022 8:52:05 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:06 ŒßŒã MyMogura$mogura$Task run
+•’Ê: MyMogura::Task::run() call
+7Œ 10, 2022 8:52:06 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:06 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:52:06 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:06 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:52:06 ŒßŒã MyMogura$mogura$1 mouseClicked
+•’Ê: MyMogura::myListener::mouseClicked() call
+7Œ 10, 2022 8:52:06 ŒßŒã MyMogura incScore
+•’Ê: MyMogura::incScore() call
+7Œ 10, 2022 8:52:06 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:07 ŒßŒã MyMogura$mogura$Task run
+•’Ê: MyMogura::Task::run() call
+7Œ 10, 2022 8:52:07 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:07 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:52:07 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:07 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:52:07 ŒßŒã MyMogura$mogura$1 mouseClicked
+•’Ê: MyMogura::myListener::mouseClicked() call
+7Œ 10, 2022 8:52:07 ŒßŒã MyMogura incScore
+•’Ê: MyMogura::incScore() call
+7Œ 10, 2022 8:52:07 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:08 ŒßŒã MyMogura$mogura$Task run
+•’Ê: MyMogura::Task::run() call
+7Œ 10, 2022 8:52:08 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:08 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:52:08 ŒßŒã MyMogura$mogura$1 mouseClicked
+•’Ê: MyMogura::myListener::mouseClicked() call
+7Œ 10, 2022 8:52:08 ŒßŒã MyMogura incScore
+•’Ê: MyMogura::incScore() call
+7Œ 10, 2022 8:52:08 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:09 ŒßŒã MyMogura$mogura$Task run
+•’Ê: MyMogura::Task::run() call
+7Œ 10, 2022 8:52:09 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:09 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:52:09 ŒßŒã MyMogura$mogura$1 mouseClicked
+•’Ê: MyMogura::myListener::mouseClicked() call
+7Œ 10, 2022 8:52:09 ŒßŒã MyMogura incScore
+•’Ê: MyMogura::incScore() call
+7Œ 10, 2022 8:52:09 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:10 ŒßŒã MyMogura$mogura$Task run
+•’Ê: MyMogura::Task::run() call
+7Œ 10, 2022 8:52:10 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:10 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:52:10 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:10 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:52:11 ŒßŒã MyMogura$mogura$Task run
+•’Ê: MyMogura::Task::run() call
+7Œ 10, 2022 8:52:11 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:11 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:12 ŒßŒã MyMogura$mogura$Task run
+•’Ê: MyMogura::Task::run() call
+7Œ 10, 2022 8:52:12 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:12 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:52:12 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:12 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:52:13 ŒßŒã MyMogura$mogura$Task run
+•’Ê: MyMogura::Task::run() call
+7Œ 10, 2022 8:52:13 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:13 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:14 ŒßŒã MyMogura$mogura$Task run
+•’Ê: MyMogura::Task::run() call
+7Œ 10, 2022 8:52:14 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:14 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:52:14 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:14 ŒßŒã MyMogura$mogura paintComponent
+•’Ê: mogura::paint() call
+7Œ 10, 2022 8:52:15 ŒßŒã MyMogura$mogura$Task run
+•’Ê: MyMogura::Task::run() call
+7Œ 10, 2022 8:52:15 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:15 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:16 ŒßŒã MyMogura$mogura$Task run
+•’Ê: MyMogura::Task::run() call
+7Œ 10, 2022 8:52:16 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:16 ŒßŒã MyMogura exportCsv
+•’Ê: MyMogura::exportCsv() call
+7Œ 10, 2022 8:52:16 ŒßŒã MyMogura sendData
+•’Ê: MyMogura::sendData() call
+7Œ 10, 2022 8:52:16 ŒßŒã MyMogura paintComponent
+•’Ê: MyMogura::paint() call
+7Œ 10, 2022 8:52:16 ŒßŒã MyMogura$mogura$Task run
+•’Ê: ----------------------GameFinish--------------------------------------
