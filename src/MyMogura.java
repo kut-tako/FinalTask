@@ -1,7 +1,3 @@
-// オブジェクト指向設計演習 第14回
-// MyMogura.java j220261　松本航汰
-// 授業日2022/01/15
-
 import java.awt.Image;
 import java.awt.Font;
 import java.awt.Dimension;
